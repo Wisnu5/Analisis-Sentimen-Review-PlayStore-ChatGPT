@@ -1,0 +1,8 @@
+pandas
+seaborn
+matplotlib
+tensorflow
+sastrawi
+nltk
+wordcloud
+imbalanced-learn
