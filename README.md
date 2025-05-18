@@ -38,5 +38,5 @@ Dataset diambil dari Google Play Store dan diproses melalui tahapan pembersihan,
 ---
 
 ## Author
-**Wisnu — Machine Learning Enthusiast**  
+**Wisnu - Machine Learning Enthusiast**  
 IPB University, Computer Science 💻
